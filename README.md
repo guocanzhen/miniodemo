@@ -1,2 +1,1 @@
-# miniodemo
-minio文件服务器
+minio 文件（对象）服务器
